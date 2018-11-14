@@ -1,0 +1,7 @@
+export(backwd_stepwise_glm)
+export(fwd_stepwise_glm)
+
+import('formula.tools')
+import('caret')
+importFrom("graphics", "plot")
+importFrom("stats", "as.formula", "cor", "gaussian", "glm", "predict")

@@ -1,0 +1,8 @@
+43396248763c35a38f75e4515f8d3fcf *DESCRIPTION
+4c5c13b446a44250b1b99b08611ca2ff *LICENSE
+504db2e45221050faa887faec9b3df40 *NAMESPACE
+969776f6d236eea886616bb03491aef7 *R/BckwdStepwise.R
+1d983d9bf602346bd3b9f9336be8360f *R/FwdStepwise.R
+9cf124bdeeca366b5fa9596d26f3ea54 *README.md
+0b61e4d23bd853c4c5f3e924d5fecf54 *man/backwd_stepwise_glm.Rd
+fe6c707e9a6d4a3d66aee4d457d1fa68 *man/fwd_stepwise_glm.Rd
